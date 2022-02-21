@@ -1,5 +1,5 @@
-# genus-traits-growth [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3258927.svg)](https://doi.org/10.5281/zenodo.3258927)
-Code used to generate results, figures and tables for DOI: 10.1111/geb.12962
+# genus-traits-growth [![DOI](https://zenodo.org/badge/461688780.svg)](https://zenodo.org/badge/latestdoi/461688780)
+Code used to generate results, figures and tables for DOI: PENDING
 
 This project uses **forest inventory data** and **plant functional trait data**, processing them in **R scripts** to generate results and figures.
 
@@ -11,7 +11,7 @@ I have provided anonymous plant-level data, the minimum required to reproduce al
 **Functional trait data**
 Functional trait data was obtained from the TRY Plant Trait Database, field collection made by the authors of this paper, field collections made from colleagues, and Australian herbarium records (for maximum height only). Citations to trait databases and publications for TRY functional trait data are made in the Methods section of the paper. Raw traits from TRY are not reproduced here.
 
-Field collected trait values for specific leaf area and wood density made by Timothy Staples are available via the diversity-productivity-reforestation repository, and as part of the [AusTraits](https://austraits.org/) initiative. Details of field sampling protocol are available via the Method sections of the publication associated with this repository.
+Field collected trait values for specific leaf area and wood density made by Timothy Staples are available via the [diversity-productivity-reforestation](https://github.com/TimothyStaples/diversity-productivity-reforestation) repository, and as part of the [AusTraits](https://austraits.org/) initiative. Details of field sampling protocol are available via the Method sections of the publication associated with this repository.
 
 **R scripts** Two scripts are provided in this repository, along with summarised data used for for the statistical models and analyses in the manuscript. These scripts makes extensive use of the code folding functionality in R-studio (Alt + O is the default shortcut on Window and Linux machines to collapse all folds).
 
